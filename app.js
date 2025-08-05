@@ -5,6 +5,11 @@ import { connectDB } from "./src/config/db.js";
 import { getAllTeam } from "./src/teams/teamController.js";
 import { getUpcomingFixtures } from "./src/fixture/fixtureController.js";
 import { getRounds } from "./src/rounds/round.controller.js";
+import {
+  getSeasonSquads,
+  getSingleTeamSquad,
+  getTeamsList,
+} from "./src/teamsOfSeason/teamOfSeason.controller.js";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -28,6 +33,13 @@ app.use((req, res, next) => {
 app.get("/teams", getAllTeam);
 app.get("/fixtures", getUpcomingFixtures);
 app.get("/rounds", getRounds);
+app.get("/seasons/:seasonId/leagues/:leagueId/teams", getTeamsList);
+// Detailed teams with coaches and players
+app.get("/seasons/:seasonId/leagues/:leagueId/squads", getSeasonSquads);
+app.get(
+  "/seasons/:seasonId/leagues/:leagueId/teams/:teamId",
+  getSingleTeamSquad
+);
 
 // Health check endpoint
 app.get("/health", (req, res) => {
