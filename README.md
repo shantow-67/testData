@@ -24,8 +24,6 @@ Returns paginated fixtures where each page represents a game week in the season.
 | Parameter | Type | Required | Default | Description |
 |-----------|------|----------|---------|-------------|
 | `page` | integer | No | 1 | Game week number (each page = 1 game week) |
-| `season_id` | string | Yes | - | Filter by specific season |
-| `league_id` | string | Yes | - | Filter by specific league |
 
 
 example req : `http://localhost:3000/fixtures?page=2`
