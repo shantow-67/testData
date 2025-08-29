@@ -1,0 +1,82 @@
+[
+  {
+    "fixture_id": "688f48ecbd4cf1cc53c2d475",
+    "date": "February 12, 2026 at 02:00 AM",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Newcastle United",
+    "gameweek": 26,
+    "round_id": "688f48debd4cf1cc53c2d44c"
+  },
+  {
+    "fixture_id": "688f48eebd4cf1cc53c2d47b",
+    "date": "February 12, 2026 at 02:00 AM",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Manchester United",
+    "gameweek": 26,
+    "round_id": "688f48debd4cf1cc53c2d44c"
+  },
+  {
+    "fixture_id": "688f4927bd4cf1cc53c2d516",
+    "date": "February 12, 2026 at 02:00 AM",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Brighton & Hove Albion",
+    "gameweek": 26,
+    "round_id": "688f48debd4cf1cc53c2d44c"
+  },
+  {
+    "fixture_id": "688f4927bd4cf1cc53c2d517",
+    "date": "February 12, 2026 at 02:00 AM",
+    "homeTeam": "Brentford",
+    "awayTeam": "Arsenal",
+    "gameweek": 26,
+    "round_id": "688f48debd4cf1cc53c2d44c"
+  },
+  {
+    "fixture_id": "688f4927bd4cf1cc53c2d518",
+    "date": "February 12, 2026 at 02:00 AM",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Wolverhampton Wanderers",
+    "gameweek": 26,
+    "round_id": "688f48debd4cf1cc53c2d44c"
+  },
+  {
+    "fixture_id": "688f4928bd4cf1cc53c2d519",
+    "date": "February 12, 2026 at 02:00 AM",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Leeds United",
+    "gameweek": 26,
+    "round_id": "688f48debd4cf1cc53c2d44c"
+  },
+  {
+    "fixture_id": "688f4928bd4cf1cc53c2d51a",
+    "date": "February 12, 2026 at 02:00 AM",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Burnley",
+    "gameweek": 26,
+    "round_id": "688f48debd4cf1cc53c2d44c"
+  },
+  {
+    "fixture_id": "688f4928bd4cf1cc53c2d51b",
+    "date": "February 12, 2026 at 02:00 AM",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Fulham",
+    "gameweek": 26,
+    "round_id": "688f48debd4cf1cc53c2d44c"
+  },
+  {
+    "fixture_id": "688f492abd4cf1cc53c2d51f",
+    "date": "February 12, 2026 at 02:00 AM",
+    "homeTeam": "Everton",
+    "awayTeam": "AFC Bournemouth",
+    "gameweek": 26,
+    "round_id": "688f48debd4cf1cc53c2d44c"
+  },
+  {
+    "fixture_id": "688f4933bd4cf1cc53c2d53c",
+    "date": "February 12, 2026 at 02:00 AM",
+    "homeTeam": "Sunderland",
+    "awayTeam": "Liverpool",
+    "gameweek": 26,
+    "round_id": "688f48debd4cf1cc53c2d44c"
+  }
+]

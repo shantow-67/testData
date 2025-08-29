@@ -1,0 +1,82 @@
+[
+  {
+    "fixture_id": "688f4930bd4cf1cc53c2d534",
+    "date": "December 13, 2025 at 09:00 PM",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester City",
+    "gameweek": 16,
+    "round_id": "688f48debd4cf1cc53c2d458"
+  },
+  {
+    "fixture_id": "688f493ebd4cf1cc53c2d560",
+    "date": "December 13, 2025 at 09:00 PM",
+    "homeTeam": "Brentford",
+    "awayTeam": "Leeds United",
+    "gameweek": 16,
+    "round_id": "688f48debd4cf1cc53c2d458"
+  },
+  {
+    "fixture_id": "688f493fbd4cf1cc53c2d561",
+    "date": "December 13, 2025 at 09:00 PM",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Wolverhampton Wanderers",
+    "gameweek": 16,
+    "round_id": "688f48debd4cf1cc53c2d458"
+  },
+  {
+    "fixture_id": "688f493fbd4cf1cc53c2d562",
+    "date": "December 13, 2025 at 09:00 PM",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Everton",
+    "gameweek": 16,
+    "round_id": "688f48debd4cf1cc53c2d458"
+  },
+  {
+    "fixture_id": "688f493fbd4cf1cc53c2d563",
+    "date": "December 13, 2025 at 09:00 PM",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Brighton & Hove Albion",
+    "gameweek": 16,
+    "round_id": "688f48debd4cf1cc53c2d458"
+  },
+  {
+    "fixture_id": "688f4940bd4cf1cc53c2d564",
+    "date": "December 13, 2025 at 09:00 PM",
+    "homeTeam": "Burnley",
+    "awayTeam": "Fulham",
+    "gameweek": 16,
+    "round_id": "688f48debd4cf1cc53c2d458"
+  },
+  {
+    "fixture_id": "688f4940bd4cf1cc53c2d565",
+    "date": "December 13, 2025 at 09:00 PM",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Tottenham Hotspur",
+    "gameweek": 16,
+    "round_id": "688f48debd4cf1cc53c2d458"
+  },
+  {
+    "fixture_id": "688f4940bd4cf1cc53c2d566",
+    "date": "December 13, 2025 at 09:00 PM",
+    "homeTeam": "Manchester United",
+    "awayTeam": "AFC Bournemouth",
+    "gameweek": 16,
+    "round_id": "688f48debd4cf1cc53c2d458"
+  },
+  {
+    "fixture_id": "688f4941bd4cf1cc53c2d567",
+    "date": "December 13, 2025 at 09:00 PM",
+    "homeTeam": "Sunderland",
+    "awayTeam": "Newcastle United",
+    "gameweek": 16,
+    "round_id": "688f48debd4cf1cc53c2d458"
+  },
+  {
+    "fixture_id": "688f4941bd4cf1cc53c2d568",
+    "date": "December 13, 2025 at 09:00 PM",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Aston Villa",
+    "gameweek": 16,
+    "round_id": "688f48debd4cf1cc53c2d458"
+  }
+]

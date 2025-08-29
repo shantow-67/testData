@@ -1,0 +1,67 @@
+{
+  "gameweek": 21,
+  "totalFixtures": 10,
+  "round_id": "688f48debd4cf1cc53c2d44a",
+  "data": [
+    {
+      "id": "688f4913bd4cf1cc53c2d4da",
+      "date": "January 8, 2026 at 02:00 AM",
+      "homeTeam": "Burnley",
+      "awayTeam": "Manchester United"
+    },
+    {
+      "id": "688f4914bd4cf1cc53c2d4dd",
+      "date": "January 8, 2026 at 02:00 AM",
+      "homeTeam": "Brentford",
+      "awayTeam": "Sunderland"
+    },
+    {
+      "id": "688f4916bd4cf1cc53c2d4e2",
+      "date": "January 8, 2026 at 02:00 AM",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Liverpool"
+    },
+    {
+      "id": "688f4916bd4cf1cc53c2d4e3",
+      "date": "January 8, 2026 at 02:00 AM",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Aston Villa"
+    },
+    {
+      "id": "688f4917bd4cf1cc53c2d4e4",
+      "date": "January 8, 2026 at 02:00 AM",
+      "homeTeam": "Fulham",
+      "awayTeam": "Chelsea"
+    },
+    {
+      "id": "688f4917bd4cf1cc53c2d4e5",
+      "date": "January 8, 2026 at 02:00 AM",
+      "homeTeam": "Everton",
+      "awayTeam": "Wolverhampton Wanderers"
+    },
+    {
+      "id": "688f4917bd4cf1cc53c2d4e6",
+      "date": "January 8, 2026 at 02:00 AM",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Brighton & Hove Albion"
+    },
+    {
+      "id": "688f4918bd4cf1cc53c2d4ea",
+      "date": "January 8, 2026 at 02:00 AM",
+      "homeTeam": "West Ham United",
+      "awayTeam": "Nottingham Forest"
+    },
+    {
+      "id": "688f4919bd4cf1cc53c2d4eb",
+      "date": "January 8, 2026 at 02:00 AM",
+      "homeTeam": "Newcastle United",
+      "awayTeam": "Leeds United"
+    },
+    {
+      "id": "688f491abd4cf1cc53c2d4ee",
+      "date": "January 8, 2026 at 02:00 AM",
+      "homeTeam": "AFC Bournemouth",
+      "awayTeam": "Tottenham Hotspur"
+    }
+  ]
+}

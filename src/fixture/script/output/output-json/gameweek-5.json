@@ -1,0 +1,82 @@
+[
+  {
+    "fixture_id": "688f490bbd4cf1cc53c2d4c0",
+    "date": "September 20, 2025 at 05:30 PM",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Everton",
+    "gameweek": 5,
+    "round_id": "688f48debd4cf1cc53c2d440"
+  },
+  {
+    "fixture_id": "688f48ebbd4cf1cc53c2d471",
+    "date": "September 20, 2025 at 08:00 PM",
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Tottenham Hotspur",
+    "gameweek": 5,
+    "round_id": "688f48debd4cf1cc53c2d440"
+  },
+  {
+    "fixture_id": "688f48f1bd4cf1cc53c2d484",
+    "date": "September 20, 2025 at 08:00 PM",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Newcastle United",
+    "gameweek": 5,
+    "round_id": "688f48debd4cf1cc53c2d440"
+  },
+  {
+    "fixture_id": "688f48f4bd4cf1cc53c2d48d",
+    "date": "September 20, 2025 at 08:00 PM",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Crystal Palace",
+    "gameweek": 5,
+    "round_id": "688f48debd4cf1cc53c2d440"
+  },
+  {
+    "fixture_id": "688f48f4bd4cf1cc53c2d48e",
+    "date": "September 20, 2025 at 08:00 PM",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Leeds United",
+    "gameweek": 5,
+    "round_id": "688f48debd4cf1cc53c2d440"
+  },
+  {
+    "fixture_id": "688f490abd4cf1cc53c2d4bf",
+    "date": "September 20, 2025 at 08:00 PM",
+    "homeTeam": "Burnley",
+    "awayTeam": "Nottingham Forest",
+    "gameweek": 5,
+    "round_id": "688f48debd4cf1cc53c2d440"
+  },
+  {
+    "fixture_id": "688f48f2bd4cf1cc53c2d488",
+    "date": "September 20, 2025 at 10:30 PM",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Chelsea",
+    "gameweek": 5,
+    "round_id": "688f48debd4cf1cc53c2d440"
+  },
+  {
+    "fixture_id": "688f48f3bd4cf1cc53c2d48b",
+    "date": "September 21, 2025 at 01:00 AM",
+    "homeTeam": "Fulham",
+    "awayTeam": "Brentford",
+    "gameweek": 5,
+    "round_id": "688f48debd4cf1cc53c2d440"
+  },
+  {
+    "fixture_id": "688f490abd4cf1cc53c2d4bd",
+    "date": "September 21, 2025 at 07:00 PM",
+    "homeTeam": "Sunderland",
+    "awayTeam": "Aston Villa",
+    "gameweek": 5,
+    "round_id": "688f48debd4cf1cc53c2d440"
+  },
+  {
+    "fixture_id": "688f48f2bd4cf1cc53c2d487",
+    "date": "September 21, 2025 at 09:30 PM",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester City",
+    "gameweek": 5,
+    "round_id": "688f48debd4cf1cc53c2d440"
+  }
+]

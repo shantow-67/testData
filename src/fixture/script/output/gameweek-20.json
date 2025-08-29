@@ -1,0 +1,67 @@
+{
+  "gameweek": 20,
+  "totalFixtures": 10,
+  "round_id": "688f48debd4cf1cc53c2d447",
+  "data": [
+    {
+      "id": "688f4910bd4cf1cc53c2d4cf",
+      "date": "January 3, 2026 at 09:00 PM",
+      "homeTeam": "Everton",
+      "awayTeam": "Brentford"
+    },
+    {
+      "id": "688f4910bd4cf1cc53c2d4d0",
+      "date": "January 3, 2026 at 09:00 PM",
+      "homeTeam": "AFC Bournemouth",
+      "awayTeam": "Arsenal"
+    },
+    {
+      "id": "688f4913bd4cf1cc53c2d4d8",
+      "date": "January 3, 2026 at 09:00 PM",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Nottingham Forest"
+    },
+    {
+      "id": "688f4913bd4cf1cc53c2d4d9",
+      "date": "January 3, 2026 at 09:00 PM",
+      "homeTeam": "Brighton & Hove Albion",
+      "awayTeam": "Burnley"
+    },
+    {
+      "id": "688f4914bd4cf1cc53c2d4db",
+      "date": "January 3, 2026 at 09:00 PM",
+      "homeTeam": "Fulham",
+      "awayTeam": "Liverpool"
+    },
+    {
+      "id": "688f4914bd4cf1cc53c2d4dc",
+      "date": "January 3, 2026 at 09:00 PM",
+      "homeTeam": "Leeds United",
+      "awayTeam": "Manchester United"
+    },
+    {
+      "id": "688f4915bd4cf1cc53c2d4de",
+      "date": "January 3, 2026 at 09:00 PM",
+      "homeTeam": "Newcastle United",
+      "awayTeam": "Crystal Palace"
+    },
+    {
+      "id": "688f4915bd4cf1cc53c2d4df",
+      "date": "January 3, 2026 at 09:00 PM",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Chelsea"
+    },
+    {
+      "id": "688f4915bd4cf1cc53c2d4e0",
+      "date": "January 3, 2026 at 09:00 PM",
+      "homeTeam": "Wolverhampton Wanderers",
+      "awayTeam": "West Ham United"
+    },
+    {
+      "id": "688f4916bd4cf1cc53c2d4e1",
+      "date": "January 3, 2026 at 09:00 PM",
+      "homeTeam": "Tottenham Hotspur",
+      "awayTeam": "Sunderland"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "fixture_id": "688f48fdbd4cf1cc53c2d4a9",
+    "date": "January 24, 2026 at 09:00 PM",
+    "homeTeam": "Brentford",
+    "awayTeam": "Nottingham Forest",
+    "gameweek": 23,
+    "round_id": "688f48debd4cf1cc53c2d43f"
+  },
+  {
+    "fixture_id": "688f48febd4cf1cc53c2d4aa",
+    "date": "January 24, 2026 at 09:00 PM",
+    "homeTeam": "Burnley",
+    "awayTeam": "Tottenham Hotspur",
+    "gameweek": 23,
+    "round_id": "688f48debd4cf1cc53c2d43f"
+  },
+  {
+    "fixture_id": "688f4900bd4cf1cc53c2d4ab",
+    "date": "January 24, 2026 at 09:00 PM",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Chelsea",
+    "gameweek": 23,
+    "round_id": "688f48debd4cf1cc53c2d43f"
+  },
+  {
+    "fixture_id": "688f4911bd4cf1cc53c2d4d2",
+    "date": "January 24, 2026 at 09:00 PM",
+    "homeTeam": "Everton",
+    "awayTeam": "Leeds United",
+    "gameweek": 23,
+    "round_id": "688f48debd4cf1cc53c2d43f"
+  },
+  {
+    "fixture_id": "688f4911bd4cf1cc53c2d4d4",
+    "date": "January 24, 2026 at 09:00 PM",
+    "homeTeam": "Fulham",
+    "awayTeam": "Brighton & Hove Albion",
+    "gameweek": 23,
+    "round_id": "688f48debd4cf1cc53c2d43f"
+  },
+  {
+    "fixture_id": "688f491bbd4cf1cc53c2d4f2",
+    "date": "January 24, 2026 at 09:00 PM",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Liverpool",
+    "gameweek": 23,
+    "round_id": "688f48debd4cf1cc53c2d43f"
+  },
+  {
+    "fixture_id": "688f491dbd4cf1cc53c2d4f7",
+    "date": "January 24, 2026 at 09:00 PM",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Manchester United",
+    "gameweek": 23,
+    "round_id": "688f48debd4cf1cc53c2d43f"
+  },
+  {
+    "fixture_id": "688f491dbd4cf1cc53c2d4f9",
+    "date": "January 24, 2026 at 09:00 PM",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Aston Villa",
+    "gameweek": 23,
+    "round_id": "688f48debd4cf1cc53c2d43f"
+  },
+  {
+    "fixture_id": "688f491ebd4cf1cc53c2d4fb",
+    "date": "January 24, 2026 at 09:00 PM",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Sunderland",
+    "gameweek": 23,
+    "round_id": "688f48debd4cf1cc53c2d43f"
+  },
+  {
+    "fixture_id": "688f4948bd4cf1cc53c2d57d",
+    "date": "January 24, 2026 at 09:00 PM",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Wolverhampton Wanderers",
+    "gameweek": 23,
+    "round_id": "688f48debd4cf1cc53c2d43f"
+  }
+]

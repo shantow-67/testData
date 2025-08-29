@@ -1,0 +1,82 @@
+[
+  {
+    "fixture_id": "688f48edbd4cf1cc53c2d477",
+    "date": "August 30, 2025 at 01:00 AM",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Crystal Palace",
+    "gameweek": 3,
+    "round_id": "688f48debd4cf1cc53c2d457"
+  },
+  {
+    "fixture_id": "688f4908bd4cf1cc53c2d4b8",
+    "date": "August 30, 2025 at 05:30 PM",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Fulham",
+    "gameweek": 3,
+    "round_id": "688f48debd4cf1cc53c2d457"
+  },
+  {
+    "fixture_id": "688f48ecbd4cf1cc53c2d474",
+    "date": "August 30, 2025 at 08:00 PM",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "AFC Bournemouth",
+    "gameweek": 3,
+    "round_id": "688f48debd4cf1cc53c2d457"
+  },
+  {
+    "fixture_id": "688f48efbd4cf1cc53c2d47e",
+    "date": "August 30, 2025 at 08:00 PM",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Burnley",
+    "gameweek": 3,
+    "round_id": "688f48debd4cf1cc53c2d457"
+  },
+  {
+    "fixture_id": "688f4909bd4cf1cc53c2d4bc",
+    "date": "August 30, 2025 at 08:00 PM",
+    "homeTeam": "Sunderland",
+    "awayTeam": "Brentford",
+    "gameweek": 3,
+    "round_id": "688f48debd4cf1cc53c2d457"
+  },
+  {
+    "fixture_id": "688f490abd4cf1cc53c2d4be",
+    "date": "August 30, 2025 at 08:00 PM",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Everton",
+    "gameweek": 3,
+    "round_id": "688f48debd4cf1cc53c2d457"
+  },
+  {
+    "fixture_id": "688f48ebbd4cf1cc53c2d470",
+    "date": "August 30, 2025 at 10:30 PM",
+    "homeTeam": "Leeds United",
+    "awayTeam": "Newcastle United",
+    "gameweek": 3,
+    "round_id": "688f48debd4cf1cc53c2d457"
+  },
+  {
+    "fixture_id": "688f48edbd4cf1cc53c2d478",
+    "date": "August 31, 2025 at 07:00 PM",
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Manchester City",
+    "gameweek": 3,
+    "round_id": "688f48debd4cf1cc53c2d457"
+  },
+  {
+    "fixture_id": "688f48f0bd4cf1cc53c2d47f",
+    "date": "August 31, 2025 at 07:00 PM",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "West Ham United",
+    "gameweek": 3,
+    "round_id": "688f48debd4cf1cc53c2d457"
+  },
+  {
+    "fixture_id": "688f48efbd4cf1cc53c2d47c",
+    "date": "August 31, 2025 at 09:30 PM",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Arsenal",
+    "gameweek": 3,
+    "round_id": "688f48debd4cf1cc53c2d457"
+  }
+]

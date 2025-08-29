@@ -1,0 +1,82 @@
+[
+  {
+    "fixture_id": "688f48f8bd4cf1cc53c2d49b",
+    "date": "October 18, 2025 at 08:00 PM",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Chelsea",
+    "gameweek": 8,
+    "round_id": "688f48debd4cf1cc53c2d450"
+  },
+  {
+    "fixture_id": "688f48f9bd4cf1cc53c2d49c",
+    "date": "October 18, 2025 at 08:00 PM",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "gameweek": 8,
+    "round_id": "688f48debd4cf1cc53c2d450"
+  },
+  {
+    "fixture_id": "688f48f9bd4cf1cc53c2d49e",
+    "date": "October 18, 2025 at 08:00 PM",
+    "homeTeam": "Sunderland",
+    "awayTeam": "Wolverhampton Wanderers",
+    "gameweek": 8,
+    "round_id": "688f48debd4cf1cc53c2d450"
+  },
+  {
+    "fixture_id": "688f48fabd4cf1cc53c2d4a0",
+    "date": "October 18, 2025 at 08:00 PM",
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Newcastle United",
+    "gameweek": 8,
+    "round_id": "688f48debd4cf1cc53c2d450"
+  },
+  {
+    "fixture_id": "688f48fabd4cf1cc53c2d4a1",
+    "date": "October 18, 2025 at 08:00 PM",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Everton",
+    "gameweek": 8,
+    "round_id": "688f48debd4cf1cc53c2d450"
+  },
+  {
+    "fixture_id": "688f48fbbd4cf1cc53c2d4a2",
+    "date": "October 18, 2025 at 08:00 PM",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Aston Villa",
+    "gameweek": 8,
+    "round_id": "688f48debd4cf1cc53c2d450"
+  },
+  {
+    "fixture_id": "688f48fbbd4cf1cc53c2d4a4",
+    "date": "October 18, 2025 at 08:00 PM",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Brentford",
+    "gameweek": 8,
+    "round_id": "688f48debd4cf1cc53c2d450"
+  },
+  {
+    "fixture_id": "688f4904bd4cf1cc53c2d4ad",
+    "date": "October 18, 2025 at 08:00 PM",
+    "homeTeam": "Burnley",
+    "awayTeam": "Leeds United",
+    "gameweek": 8,
+    "round_id": "688f48debd4cf1cc53c2d450"
+  },
+  {
+    "fixture_id": "688f4905bd4cf1cc53c2d4af",
+    "date": "October 18, 2025 at 08:00 PM",
+    "homeTeam": "Fulham",
+    "awayTeam": "Arsenal",
+    "gameweek": 8,
+    "round_id": "688f48debd4cf1cc53c2d450"
+  },
+  {
+    "fixture_id": "688f4905bd4cf1cc53c2d4b0",
+    "date": "October 18, 2025 at 08:00 PM",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "AFC Bournemouth",
+    "gameweek": 8,
+    "round_id": "688f48debd4cf1cc53c2d450"
+  }
+]

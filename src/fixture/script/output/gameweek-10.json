@@ -1,0 +1,67 @@
+{
+  "gameweek": 10,
+  "totalFixtures": 10,
+  "round_id": "688f48debd4cf1cc53c2d452",
+  "data": [
+    {
+      "id": "688f492abd4cf1cc53c2d520",
+      "date": "November 1, 2025 at 09:00 PM",
+      "homeTeam": "Brighton & Hove Albion",
+      "awayTeam": "Leeds United"
+    },
+    {
+      "id": "688f492bbd4cf1cc53c2d522",
+      "date": "November 1, 2025 at 09:00 PM",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Brentford"
+    },
+    {
+      "id": "688f492cbd4cf1cc53c2d526",
+      "date": "November 1, 2025 at 09:00 PM",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Aston Villa"
+    },
+    {
+      "id": "688f492cbd4cf1cc53c2d527",
+      "date": "November 1, 2025 at 09:00 PM",
+      "homeTeam": "Fulham",
+      "awayTeam": "Wolverhampton Wanderers"
+    },
+    {
+      "id": "688f492cbd4cf1cc53c2d528",
+      "date": "November 1, 2025 at 09:00 PM",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Everton"
+    },
+    {
+      "id": "688f492dbd4cf1cc53c2d529",
+      "date": "November 1, 2025 at 09:00 PM",
+      "homeTeam": "Burnley",
+      "awayTeam": "Arsenal"
+    },
+    {
+      "id": "688f492dbd4cf1cc53c2d52a",
+      "date": "November 1, 2025 at 09:00 PM",
+      "homeTeam": "Manchester City",
+      "awayTeam": "AFC Bournemouth"
+    },
+    {
+      "id": "688f492dbd4cf1cc53c2d52b",
+      "date": "November 1, 2025 at 09:00 PM",
+      "homeTeam": "Nottingham Forest",
+      "awayTeam": "Manchester United"
+    },
+    {
+      "id": "688f492ebd4cf1cc53c2d52c",
+      "date": "November 1, 2025 at 09:00 PM",
+      "homeTeam": "Tottenham Hotspur",
+      "awayTeam": "Chelsea"
+    },
+    {
+      "id": "688f492fbd4cf1cc53c2d530",
+      "date": "November 1, 2025 at 09:00 PM",
+      "homeTeam": "West Ham United",
+      "awayTeam": "Newcastle United"
+    }
+  ]
+}

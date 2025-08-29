@@ -1,0 +1,82 @@
+[
+  {
+    "fixture_id": "688f4929bd4cf1cc53c2d51e",
+    "date": "December 4, 2025 at 02:00 AM",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Brentford",
+    "gameweek": 14,
+    "round_id": "688f48debd4cf1cc53c2d456"
+  },
+  {
+    "fixture_id": "688f4935bd4cf1cc53c2d542",
+    "date": "December 4, 2025 at 02:00 AM",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Everton",
+    "gameweek": 14,
+    "round_id": "688f48debd4cf1cc53c2d456"
+  },
+  {
+    "fixture_id": "688f4936bd4cf1cc53c2d547",
+    "date": "December 4, 2025 at 02:00 AM",
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Aston Villa",
+    "gameweek": 14,
+    "round_id": "688f48debd4cf1cc53c2d456"
+  },
+  {
+    "fixture_id": "688f4937bd4cf1cc53c2d548",
+    "date": "December 4, 2025 at 02:00 AM",
+    "homeTeam": "Leeds United",
+    "awayTeam": "Chelsea",
+    "gameweek": 14,
+    "round_id": "688f48debd4cf1cc53c2d456"
+  },
+  {
+    "fixture_id": "688f4937bd4cf1cc53c2d549",
+    "date": "December 4, 2025 at 02:00 AM",
+    "homeTeam": "Burnley",
+    "awayTeam": "Crystal Palace",
+    "gameweek": 14,
+    "round_id": "688f48debd4cf1cc53c2d456"
+  },
+  {
+    "fixture_id": "688f4937bd4cf1cc53c2d54a",
+    "date": "December 4, 2025 at 02:00 AM",
+    "homeTeam": "Fulham",
+    "awayTeam": "Manchester City",
+    "gameweek": 14,
+    "round_id": "688f48debd4cf1cc53c2d456"
+  },
+  {
+    "fixture_id": "688f4937bd4cf1cc53c2d54b",
+    "date": "December 4, 2025 at 02:00 AM",
+    "homeTeam": "Manchester United",
+    "awayTeam": "West Ham United",
+    "gameweek": 14,
+    "round_id": "688f48debd4cf1cc53c2d456"
+  },
+  {
+    "fixture_id": "688f4938bd4cf1cc53c2d54c",
+    "date": "December 4, 2025 at 02:00 AM",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Tottenham Hotspur",
+    "gameweek": 14,
+    "round_id": "688f48debd4cf1cc53c2d456"
+  },
+  {
+    "fixture_id": "688f4938bd4cf1cc53c2d54e",
+    "date": "December 4, 2025 at 02:00 AM",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Sunderland",
+    "gameweek": 14,
+    "round_id": "688f48debd4cf1cc53c2d456"
+  },
+  {
+    "fixture_id": "688f493abd4cf1cc53c2d552",
+    "date": "December 4, 2025 at 02:00 AM",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Nottingham Forest",
+    "gameweek": 14,
+    "round_id": "688f48debd4cf1cc53c2d456"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "fixture_id": "688f4922bd4cf1cc53c2d509",
+    "date": "April 11, 2026 at 08:00 PM",
+    "homeTeam": "Brentford",
+    "awayTeam": "Everton",
+    "gameweek": 32,
+    "round_id": "688f48debd4cf1cc53c2d438"
+  },
+  {
+    "fixture_id": "688f4924bd4cf1cc53c2d50d",
+    "date": "April 11, 2026 at 08:00 PM",
+    "homeTeam": "Arsenal",
+    "awayTeam": "AFC Bournemouth",
+    "gameweek": 32,
+    "round_id": "688f48debd4cf1cc53c2d438"
+  },
+  {
+    "fixture_id": "688f4924bd4cf1cc53c2d50e",
+    "date": "April 11, 2026 at 08:00 PM",
+    "homeTeam": "Manchester United",
+    "awayTeam": "Leeds United",
+    "gameweek": 32,
+    "round_id": "688f48debd4cf1cc53c2d438"
+  },
+  {
+    "fixture_id": "688f4924bd4cf1cc53c2d50f",
+    "date": "April 11, 2026 at 08:00 PM",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Wolverhampton Wanderers",
+    "gameweek": 32,
+    "round_id": "688f48debd4cf1cc53c2d438"
+  },
+  {
+    "fixture_id": "688f4942bd4cf1cc53c2d56b",
+    "date": "April 11, 2026 at 08:00 PM",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Aston Villa",
+    "gameweek": 32,
+    "round_id": "688f48debd4cf1cc53c2d438"
+  },
+  {
+    "fixture_id": "688f4942bd4cf1cc53c2d56c",
+    "date": "April 11, 2026 at 08:00 PM",
+    "homeTeam": "Sunderland",
+    "awayTeam": "Tottenham Hotspur",
+    "gameweek": 32,
+    "round_id": "688f48debd4cf1cc53c2d438"
+  },
+  {
+    "fixture_id": "688f495bbd4cf1cc53c2d5ba",
+    "date": "April 11, 2026 at 08:00 PM",
+    "homeTeam": "Burnley",
+    "awayTeam": "Brighton & Hove Albion",
+    "gameweek": 32,
+    "round_id": "688f48debd4cf1cc53c2d438"
+  },
+  {
+    "fixture_id": "688f495cbd4cf1cc53c2d5bb",
+    "date": "April 11, 2026 at 08:00 PM",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Manchester City",
+    "gameweek": 32,
+    "round_id": "688f48debd4cf1cc53c2d438"
+  },
+  {
+    "fixture_id": "688f495cbd4cf1cc53c2d5bc",
+    "date": "April 11, 2026 at 08:00 PM",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Newcastle United",
+    "gameweek": 32,
+    "round_id": "688f48debd4cf1cc53c2d438"
+  },
+  {
+    "fixture_id": "688f495cbd4cf1cc53c2d5bd",
+    "date": "April 11, 2026 at 08:00 PM",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Fulham",
+    "gameweek": 32,
+    "round_id": "688f48debd4cf1cc53c2d438"
+  }
+]

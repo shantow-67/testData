@@ -1,0 +1,82 @@
+[
+  {
+    "fixture_id": "688f4923bd4cf1cc53c2d50a",
+    "date": "November 29, 2025 at 09:00 PM",
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Manchester United",
+    "gameweek": 13,
+    "round_id": "688f48debd4cf1cc53c2d45a"
+  },
+  {
+    "fixture_id": "688f4929bd4cf1cc53c2d51d",
+    "date": "November 29, 2025 at 09:00 PM",
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Brighton & Hove Albion",
+    "gameweek": 13,
+    "round_id": "688f48debd4cf1cc53c2d45a"
+  },
+  {
+    "fixture_id": "688f4933bd4cf1cc53c2d53d",
+    "date": "November 29, 2025 at 09:00 PM",
+    "homeTeam": "Brentford",
+    "awayTeam": "Burnley",
+    "gameweek": 13,
+    "round_id": "688f48debd4cf1cc53c2d45a"
+  },
+  {
+    "fixture_id": "688f4934bd4cf1cc53c2d53f",
+    "date": "November 29, 2025 at 09:00 PM",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Wolverhampton Wanderers",
+    "gameweek": 13,
+    "round_id": "688f48debd4cf1cc53c2d45a"
+  },
+  {
+    "fixture_id": "688f4934bd4cf1cc53c2d540",
+    "date": "November 29, 2025 at 09:00 PM",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Arsenal",
+    "gameweek": 13,
+    "round_id": "688f48debd4cf1cc53c2d45a"
+  },
+  {
+    "fixture_id": "688f4934bd4cf1cc53c2d541",
+    "date": "November 29, 2025 at 09:00 PM",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Leeds United",
+    "gameweek": 13,
+    "round_id": "688f48debd4cf1cc53c2d45a"
+  },
+  {
+    "fixture_id": "688f4935bd4cf1cc53c2d543",
+    "date": "November 29, 2025 at 09:00 PM",
+    "homeTeam": "Everton",
+    "awayTeam": "Newcastle United",
+    "gameweek": 13,
+    "round_id": "688f48debd4cf1cc53c2d45a"
+  },
+  {
+    "fixture_id": "688f4935bd4cf1cc53c2d544",
+    "date": "November 29, 2025 at 09:00 PM",
+    "homeTeam": "Sunderland",
+    "awayTeam": "AFC Bournemouth",
+    "gameweek": 13,
+    "round_id": "688f48debd4cf1cc53c2d45a"
+  },
+  {
+    "fixture_id": "688f4936bd4cf1cc53c2d545",
+    "date": "November 29, 2025 at 09:00 PM",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Fulham",
+    "gameweek": 13,
+    "round_id": "688f48debd4cf1cc53c2d45a"
+  },
+  {
+    "fixture_id": "688f4936bd4cf1cc53c2d546",
+    "date": "November 29, 2025 at 09:00 PM",
+    "homeTeam": "West Ham United",
+    "awayTeam": "Liverpool",
+    "gameweek": 13,
+    "round_id": "688f48debd4cf1cc53c2d45a"
+  }
+]

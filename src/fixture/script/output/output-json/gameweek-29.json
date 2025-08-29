@@ -1,0 +1,82 @@
+[
+  {
+    "fixture_id": "688f494fbd4cf1cc53c2d594",
+    "date": "March 5, 2026 at 02:00 AM",
+    "homeTeam": "Newcastle United",
+    "awayTeam": "Manchester United",
+    "gameweek": 29,
+    "round_id": "688f48debd4cf1cc53c2d439"
+  },
+  {
+    "fixture_id": "688f4952bd4cf1cc53c2d59e",
+    "date": "March 5, 2026 at 02:00 AM",
+    "homeTeam": "Brighton & Hove Albion",
+    "awayTeam": "Arsenal",
+    "gameweek": 29,
+    "round_id": "688f48debd4cf1cc53c2d439"
+  },
+  {
+    "fixture_id": "688f4953bd4cf1cc53c2d5a1",
+    "date": "March 5, 2026 at 02:00 AM",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Chelsea",
+    "gameweek": 29,
+    "round_id": "688f48debd4cf1cc53c2d439"
+  },
+  {
+    "fixture_id": "688f4954bd4cf1cc53c2d5a2",
+    "date": "March 5, 2026 at 02:00 AM",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Brentford",
+    "gameweek": 29,
+    "round_id": "688f48debd4cf1cc53c2d439"
+  },
+  {
+    "fixture_id": "688f4954bd4cf1cc53c2d5a3",
+    "date": "March 5, 2026 at 02:00 AM",
+    "homeTeam": "Everton",
+    "awayTeam": "Burnley",
+    "gameweek": 29,
+    "round_id": "688f48debd4cf1cc53c2d439"
+  },
+  {
+    "fixture_id": "688f4954bd4cf1cc53c2d5a4",
+    "date": "March 5, 2026 at 02:00 AM",
+    "homeTeam": "Fulham",
+    "awayTeam": "West Ham United",
+    "gameweek": 29,
+    "round_id": "688f48debd4cf1cc53c2d439"
+  },
+  {
+    "fixture_id": "688f4955bd4cf1cc53c2d5a5",
+    "date": "March 5, 2026 at 02:00 AM",
+    "homeTeam": "Leeds United",
+    "awayTeam": "Sunderland",
+    "gameweek": 29,
+    "round_id": "688f48debd4cf1cc53c2d439"
+  },
+  {
+    "fixture_id": "688f4955bd4cf1cc53c2d5a6",
+    "date": "March 5, 2026 at 02:00 AM",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Nottingham Forest",
+    "gameweek": 29,
+    "round_id": "688f48debd4cf1cc53c2d439"
+  },
+  {
+    "fixture_id": "688f4955bd4cf1cc53c2d5a7",
+    "date": "March 5, 2026 at 02:00 AM",
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "Crystal Palace",
+    "gameweek": 29,
+    "round_id": "688f48debd4cf1cc53c2d439"
+  },
+  {
+    "fixture_id": "688f4956bd4cf1cc53c2d5a8",
+    "date": "March 5, 2026 at 02:00 AM",
+    "homeTeam": "Wolverhampton Wanderers",
+    "awayTeam": "Liverpool",
+    "gameweek": 29,
+    "round_id": "688f48debd4cf1cc53c2d439"
+  }
+]

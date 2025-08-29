@@ -7,9 +7,12 @@ import { getUpcomingFixtures } from "./src/fixture/fixtureController.js";
 import { getRounds } from "./src/rounds/round.controller.js";
 import {
   getSeasonSquads,
+  getSingleTeamPlayers,
   getSingleTeamSquad,
+  getSportMonkImageOfSeason,
   getTeamsList,
 } from "./src/teamsOfSeason/teamOfSeason.controller.js";
+import { getPlayersWithSportmonksImage } from "./src/players/player.controller.js";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -40,7 +43,17 @@ app.get(
   "/seasons/:seasonId/leagues/:leagueId/teams/:teamId",
   getSingleTeamSquad
 );
+app.get(
+  "/seasons/:seasonId/leagues/:leagueId/teams/:teamId/players",
+  getSingleTeamPlayers
+);
 
+app.get(
+  "/seasons/:seasonId/leagues/:leagueId/spm-imageOfSeason",
+  getSportMonkImageOfSeason
+);
+
+app.get("/players/sportmonks-image", getPlayersWithSportmonksImage);
 // Health check endpoint
 app.get("/health", (req, res) => {
   res.json({
